@@ -1,0 +1,15 @@
+body{
+font-family:Arial;
+background:#f4f4f4;
+text-align:center;
+padding:30px;
+}
+
+h1{
+color:#0066cc;
+}
+
+ul{
+list-style:none;
+padding:0;
+}
